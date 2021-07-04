@@ -6,6 +6,6 @@ public class Test {
         System.out.println("hellow git!");
         System.out.println("hellow git!");
         System.out.println("hellow git!");
-        System.out.println("hellow git!");
+        System.out.println("master!");
     }
 }
